@@ -1,0 +1,16 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: CONFIG-SERVER
+#  profiles:
+#    active: git
+
+#  cloud:
+#    config:
+#      server:
+#        git:
+#          uri: https://github.com/ramdhangar65/spring-cloud-2024
+          #https://github.com/ramdhangar65/spring-cloud-2024
+          #username: <Your_Git_Username>
+          #password: <Your_Git_Password>
