@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ramdhangar65/config-server-2024.git
+          uri: https://github.com/ramdhangar65/config-repo-2024.git
           #https://github.com/ramdhangar65/spring-cloud-2024
           #username: <Your_Git_Username>
           #password: <Your_Git_Password>
