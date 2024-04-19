@@ -5,12 +5,11 @@ spring:
     name: CONFIG-SERVER
 #  profiles:
 #    active: git
-
-#  cloud:
-#    config:
-#      server:
-#        git:
-#          uri: https://github.com/ramdhangar65/spring-cloud-2024
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ramdhangar65/service-registery-service.git
           #https://github.com/ramdhangar65/spring-cloud-2024
           #username: <Your_Git_Username>
           #password: <Your_Git_Password>
